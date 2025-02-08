@@ -1,4 +1,4 @@
-import rererereact from '../lib/rererereact';
+import rererereact from '../rererereact';
 
 const element = rererereact.createElement(
     'div',
