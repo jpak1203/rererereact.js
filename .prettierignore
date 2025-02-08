@@ -1,0 +1,15 @@
+# Existing entries
+build
+coverage
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+
+# Additional common ignores
+.DS_Store
+*.log
+.env*
